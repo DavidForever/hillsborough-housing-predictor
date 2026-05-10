@@ -185,7 +185,6 @@ def main():
         **Model:** XGBoost + SHAP
 
         **Built by:** David Favors
-        <br>
         **GitHub:** [hillsborough-housing-predictor](https://github.com/DavidForever/hillsborough-housing-predictor)
         """)
 
